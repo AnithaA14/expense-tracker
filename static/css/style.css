@@ -1,0 +1,6 @@
+body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background: #f7f9fb; }
+.navbar { background: #131735; color: white; padding: 0.8rem 0; }
+.navbar .navbar-brand { color: white; font-weight: 700; font-size: 1.25rem; }
+.container { max-width: 900px; }
+.summary { margin-bottom: 1rem; }
+.badge { margin-right: 6px; background: #6c757d; color: white; padding: 0.4rem 0.6rem; border-radius: 0.3rem; }
